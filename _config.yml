@@ -2,6 +2,7 @@
 baseurl: "/Type-on-Strap"
 url: "https://mygcr.github.io"
 title: My mygcr web site# site's title
+avatar: assets/img/triangular.svg     # Path of avatar image, to be displayed in the theme's header
 description: "A website with blog posts and pages" # used by search engines
 
 defaults:
