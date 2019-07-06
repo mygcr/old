@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
+baseurl: ""
 url: "https://mygcr.github.io"
 title: My mygcr web site # site's title
 avatar: assets/img/triangular.svg     # Path of avatar image, to be displayed in the theme's header
