@@ -21,12 +21,11 @@ theme_settings:
   # Header and footer text
   header_text: Welcome to my mygcr blog <code>_config.yml</code>
   header_feature_image: assets/img/pexels/triangular.jpeg
-  footer_text: >
-    Powered by <a href="https://www.waigongjia.com/">mygcr</a> with <a href="https://github.com/mygcr/Type-on-Strap">Type on Strap</a>
+
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: commvault@vip.qq.com# Full email address, e.g. "sam@example.com"
+  email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
